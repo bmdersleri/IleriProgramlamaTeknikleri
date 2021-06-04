@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\adaptortasarimdeseni\adaptortasarimdeseni\bin\Debug\adaptortasarimdeseni.exe.config
+C:\Users\asus\source\repos\adaptortasarimdeseni\adaptortasarimdeseni\bin\Debug\adaptortasarimdeseni.exe
+C:\Users\asus\source\repos\adaptortasarimdeseni\adaptortasarimdeseni\bin\Debug\adaptortasarimdeseni.pdb
+C:\Users\asus\source\repos\adaptortasarimdeseni\adaptortasarimdeseni\obj\Debug\adaptortasarimdeseni.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\adaptortasarimdeseni\adaptortasarimdeseni\obj\Debug\adaptortasarimdeseni.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\adaptortasarimdeseni\adaptortasarimdeseni\obj\Debug\adaptortasarimdeseni.exe
+C:\Users\asus\source\repos\adaptortasarimdeseni\adaptortasarimdeseni\obj\Debug\adaptortasarimdeseni.pdb
