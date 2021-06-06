@@ -1,0 +1,13 @@
+C:\Users\iamsa\source\repos\TemplateMethod_HuseyinSAHIN\TemplateMethod_HuseyinSAHIN\bin\Debug\netcoreapp3.1\TemplateMethod_HuseyinSAHIN.exe
+C:\Users\iamsa\source\repos\TemplateMethod_HuseyinSAHIN\TemplateMethod_HuseyinSAHIN\bin\Debug\netcoreapp3.1\TemplateMethod_HuseyinSAHIN.deps.json
+C:\Users\iamsa\source\repos\TemplateMethod_HuseyinSAHIN\TemplateMethod_HuseyinSAHIN\bin\Debug\netcoreapp3.1\TemplateMethod_HuseyinSAHIN.runtimeconfig.json
+C:\Users\iamsa\source\repos\TemplateMethod_HuseyinSAHIN\TemplateMethod_HuseyinSAHIN\bin\Debug\netcoreapp3.1\TemplateMethod_HuseyinSAHIN.runtimeconfig.dev.json
+C:\Users\iamsa\source\repos\TemplateMethod_HuseyinSAHIN\TemplateMethod_HuseyinSAHIN\bin\Debug\netcoreapp3.1\TemplateMethod_HuseyinSAHIN.dll
+C:\Users\iamsa\source\repos\TemplateMethod_HuseyinSAHIN\TemplateMethod_HuseyinSAHIN\bin\Debug\netcoreapp3.1\TemplateMethod_HuseyinSAHIN.pdb
+C:\Users\iamsa\source\repos\TemplateMethod_HuseyinSAHIN\TemplateMethod_HuseyinSAHIN\obj\Debug\netcoreapp3.1\TemplateMethod_HuseyinSAHIN.csprojAssemblyReference.cache
+C:\Users\iamsa\source\repos\TemplateMethod_HuseyinSAHIN\TemplateMethod_HuseyinSAHIN\obj\Debug\netcoreapp3.1\TemplateMethod_HuseyinSAHIN.AssemblyInfoInputs.cache
+C:\Users\iamsa\source\repos\TemplateMethod_HuseyinSAHIN\TemplateMethod_HuseyinSAHIN\obj\Debug\netcoreapp3.1\TemplateMethod_HuseyinSAHIN.AssemblyInfo.cs
+C:\Users\iamsa\source\repos\TemplateMethod_HuseyinSAHIN\TemplateMethod_HuseyinSAHIN\obj\Debug\netcoreapp3.1\TemplateMethod_HuseyinSAHIN.csproj.CoreCompileInputs.cache
+C:\Users\iamsa\source\repos\TemplateMethod_HuseyinSAHIN\TemplateMethod_HuseyinSAHIN\obj\Debug\netcoreapp3.1\TemplateMethod_HuseyinSAHIN.dll
+C:\Users\iamsa\source\repos\TemplateMethod_HuseyinSAHIN\TemplateMethod_HuseyinSAHIN\obj\Debug\netcoreapp3.1\TemplateMethod_HuseyinSAHIN.pdb
+C:\Users\iamsa\source\repos\TemplateMethod_HuseyinSAHIN\TemplateMethod_HuseyinSAHIN\obj\Debug\netcoreapp3.1\TemplateMethod_HuseyinSAHIN.genruntimeconfig.cache

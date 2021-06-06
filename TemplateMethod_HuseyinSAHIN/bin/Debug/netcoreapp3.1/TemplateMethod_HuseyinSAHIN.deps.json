@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TemplateMethod_HuseyinSAHIN/1.0.0": {
+        "runtime": {
+          "TemplateMethod_HuseyinSAHIN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TemplateMethod_HuseyinSAHIN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
