@@ -1,0 +1,34 @@
+﻿@model List<yeni_mvc_uyg.model.kitap>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+
+    <table>
+
+        @foreach(var k in Model)
+        {
+
+            <tr>
+                <td> @k.ID</td>
+                <td> @k.kitap_adı</td>
+                <td> @k.yazar_adı</td>
+            </tr>
+        }
+
+
+
+
+    </table>
+
+
+</body>
+</html>
