@@ -1,3 +1,11 @@
+# Beni Oku
+|   |   |
+| ------ | ------ |
+| Konu Anlatım Videosu = | https://youtu.be/2lAZiKzjwtE |
+| BMDersleri  =  | https://www.youtube.com/bmdersleri |
+| Github Adresimiz =  | https://github.com/bmdersleri | 
+| Hazırlayan =  | Hüseyin ASİLTÜRK | 
+ 
  
 ## _Null Object Design Pattern_
 
