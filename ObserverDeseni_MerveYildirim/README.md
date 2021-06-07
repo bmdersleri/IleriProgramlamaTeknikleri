@@ -1,3 +1,12 @@
+# Beni Oku
+|   |   |
+| ------ | ------ |
+| Konu Anlatım Videosu = | https://youtu.be/hj2W6rrRkhg|
+| BMDersleri =  | https://www.youtube.com/bmdersleri |
+| Github Adresimiz =  | https://github.com/bmdersleri | 
+| Hazırlayan =  | Merve YILDIRIM | 
+ 
+
  
 ## _Observer (Gözlemci) Deseni_
 
@@ -218,7 +227,7 @@ abstract public class Observer
 ```
 ----
 # Ekran Çıktımız
-![UML](https://lh3.googleusercontent.com/OCzglY9TIJw3ZCXHD05hZIDvOcToqcC0ZC8U8sYtc56J3-148hc-YSoJjmUNZybbRfZCqZ_n4-AwuJx0Fucp=w1920-h969-rw)
+![UML](https://lh3.google.com/u/5/d/1tIdJFIPXt7Wm7JU2sj135gwYGfv79mSL=w1920-h969-iv1)
 
 - Aşağıda da gördüğünüz gibi bildirimler ekrana düştü ve yapımız sorunsuz bir biçimde çalıştı.
 
@@ -241,6 +250,9 @@ abstract public class Observer
 - Observer tasarım deseni one-to-many prensibini uyguladığı için tek bir tane Subject olmalı, birden çok ise Observer sınıfı olmalıdır.
 
 
+
+ 
+ 
 
  
  
