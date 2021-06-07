@@ -1,0 +1,13 @@
+C:\Users\ASILTURK\Source\Repos\MerveYldrm\MerveYldrm\bin\Debug\netcoreapp3.1\MerveYldrm.exe
+C:\Users\ASILTURK\Source\Repos\MerveYldrm\MerveYldrm\bin\Debug\netcoreapp3.1\MerveYldrm.deps.json
+C:\Users\ASILTURK\Source\Repos\MerveYldrm\MerveYldrm\bin\Debug\netcoreapp3.1\MerveYldrm.runtimeconfig.json
+C:\Users\ASILTURK\Source\Repos\MerveYldrm\MerveYldrm\bin\Debug\netcoreapp3.1\MerveYldrm.runtimeconfig.dev.json
+C:\Users\ASILTURK\Source\Repos\MerveYldrm\MerveYldrm\bin\Debug\netcoreapp3.1\MerveYldrm.dll
+C:\Users\ASILTURK\Source\Repos\MerveYldrm\MerveYldrm\bin\Debug\netcoreapp3.1\MerveYldrm.pdb
+C:\Users\ASILTURK\Source\Repos\MerveYldrm\MerveYldrm\obj\Debug\netcoreapp3.1\MerveYldrm.csprojAssemblyReference.cache
+C:\Users\ASILTURK\Source\Repos\MerveYldrm\MerveYldrm\obj\Debug\netcoreapp3.1\MerveYldrm.AssemblyInfoInputs.cache
+C:\Users\ASILTURK\Source\Repos\MerveYldrm\MerveYldrm\obj\Debug\netcoreapp3.1\MerveYldrm.AssemblyInfo.cs
+C:\Users\ASILTURK\Source\Repos\MerveYldrm\MerveYldrm\obj\Debug\netcoreapp3.1\MerveYldrm.csproj.CoreCompileInputs.cache
+C:\Users\ASILTURK\Source\Repos\MerveYldrm\MerveYldrm\obj\Debug\netcoreapp3.1\MerveYldrm.dll
+C:\Users\ASILTURK\Source\Repos\MerveYldrm\MerveYldrm\obj\Debug\netcoreapp3.1\MerveYldrm.pdb
+C:\Users\ASILTURK\Source\Repos\MerveYldrm\MerveYldrm\obj\Debug\netcoreapp3.1\MerveYldrm.genruntimeconfig.cache
