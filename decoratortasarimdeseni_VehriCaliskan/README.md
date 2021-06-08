@@ -1,4 +1,4 @@
-Template Metot Örnek Kodları
+Decorator Tasarım Deseni
 
 Youtube Kanalımız: BMDersleri
 
@@ -8,4 +8,5 @@ Kısa Bağlantı: https://bit.ly/32k9MnJ
 
 Github Adresimiz: https://github.com/bmdersleri
 
-Hazırlayan: Hüseyin ŞAHİN
+Hazırlayan: Vehri ÇALIŞKAN
+Moderatör: Hüseyin ŞAHİN
