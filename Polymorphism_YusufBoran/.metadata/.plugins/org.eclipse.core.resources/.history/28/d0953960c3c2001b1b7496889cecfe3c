@@ -1,0 +1,12 @@
+package Ornek1;
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Kup kup = new Kup(3);
+		kup.hacimHesapla();
+		
+	}
+}

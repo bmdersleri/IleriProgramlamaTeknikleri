@@ -1,0 +1,15 @@
+package Ornek1.classes;
+
+import Ornek1.interfaces.IkiBoyutlu;
+import Ornek1.interfaces.UcBoyutlu;
+
+public class Kup extends Kare implements, UcBoyutlu {
+
+
+
+
+	@Override
+	public void hacimHesapla() {
+		System.out.println("Karenin alanı: " + kenar * kenar * kenar);
+	}
+}

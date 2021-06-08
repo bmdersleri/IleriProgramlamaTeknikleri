@@ -1,0 +1,12 @@
+package Ornek1.classes;
+
+import Ornek1.interfaces.IkiBoyutlu;
+
+public class Daire implements IkiBoyutlu{
+
+	@Override
+	public void alanHesapla() {
+		
+	}
+
+}

@@ -1,0 +1,29 @@
+package Ornek1.classes;
+
+import Ornek1.interfaces.IkiBoyutlu;
+import Ornek1.interfaces.UcBoyutlu;
+
+public class Silindir implements IkiBoyutlu, UcBoyutlu {
+
+	private int yaricap, yukseklik;
+
+	public Silindir(int yaricap, int yukseklik) {
+		this.yaricap = yaricap;
+		this.yukseklik = yukseklik;
+	}
+
+	@Override
+	public void hacimHesapla() {
+		System.out.println("Silindirin hacmi: " + tabanAlani() * yukseklik);
+	}
+
+	@Override
+	public void alanHesapla() {
+		System.out.println("Silindirin yüzey alanı: " + ((tabanAlani() * 2) + (yukseklik *2*Math.PI*yaricap)) );
+	}
+
+	private double tabanAlani() {
+		return yaricap * yaricap * Math.PI;
+	}
+
+}

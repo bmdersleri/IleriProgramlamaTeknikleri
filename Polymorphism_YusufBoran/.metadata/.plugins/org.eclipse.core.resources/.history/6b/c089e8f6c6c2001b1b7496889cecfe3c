@@ -1,0 +1,14 @@
+package Ornek1;
+
+import Ornek1.classes.Kare;
+import Ornek1.classes.Kup;
+import Ornek1.classes.Silindir;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Kare kare = new  Kare(3);
+		System.out.println(kare.alanHesapla());
+	}
+}

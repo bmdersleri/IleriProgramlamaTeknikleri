@@ -1,0 +1,20 @@
+package Ornek1.classes;
+
+import Ornek1.interfaces.UcBoyutlu;
+
+public class Kup extends Kare implements UcBoyutlu {
+
+	public Kup(int kenar) {
+		super(kenar);
+	}
+
+	@Override
+	public double hacimHesapla() {
+		return getKenar() * getKenar() * getKenar();
+	}
+
+	@Override
+	public double alanHesapla() {
+		System.out.println("Küpün yüzey alanı: " + getKenar() * getKenar() * 6);
+	}
+}

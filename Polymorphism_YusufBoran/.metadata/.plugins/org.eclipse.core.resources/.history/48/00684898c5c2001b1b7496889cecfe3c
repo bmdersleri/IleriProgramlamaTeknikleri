@@ -1,0 +1,30 @@
+package Ornek1.classes;
+
+import Ornek1.interfaces.UcBoyutlu;
+
+public class Silindir extends Daire implements UcBoyutlu {
+	private int yükseklik;
+
+	public Silindir(double yaricap, int yükseklik) {
+		super(yaricap);
+		this.yukseklik = yükseklik;
+	}
+
+	private int yaricap, yukseklik;
+
+	@Override
+	public void hacimHesapla() {
+		System.out.println("Silindirin hacmi: " + tabanAlani() * yukseklik);
+	}
+
+	@Override
+	public void alanHesapla() {
+		System.out.println("Silindirin yüzey alanı: " + ((2 * tabanAlani()) + (yukseklik * 2 * Math.PI * yaricap)));
+	}
+
+	@Override
+	public double tabanAlani() {
+		return super.tabanAlani();
+	}
+
+}
