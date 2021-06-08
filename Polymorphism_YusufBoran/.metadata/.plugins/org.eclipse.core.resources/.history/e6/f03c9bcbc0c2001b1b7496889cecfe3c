@@ -1,0 +1,24 @@
+package Ornek1.classes;
+
+import Ornek1.interfaces.IkiBoyutlu;
+import Ornek1.interfaces.UcBoyutlu;
+
+public class Kup implements IkiBoyutlu, UcBoyutlu {
+
+	private int kenar;
+
+	public Kup(int kenar) {
+		this.kenar = kenar;
+	}
+
+	@Override
+	public void alanHesapla() {
+		System.out.println("Karenin alanı: " + kenar * kenar);
+	}
+
+	@Override
+	public void hacimHesapla() {
+		System.out.println("Karenin alanı: " + kenar * kenar * kenar);
+
+	}
+}

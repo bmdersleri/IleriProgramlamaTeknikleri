@@ -1,0 +1,22 @@
+package Ornek1;
+
+import Ornek1.classes.Daire;
+import Ornek1.classes.DikUcgen;
+import Ornek1.classes.Kare;
+import Ornek1.classes.Kup;
+import Ornek1.classes.Silindir;
+import Ornek1.interfaces.IkiBoyutlu;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		IkiBoyutlu[] ikiBoyutlu = {
+			new Daire(3), new DikUcgen(2, 3), new Kare(5), new Silindir(1, 1),new Kup(2)
+		};
+		for (IkiBoyutlu ikiBoyutlu2 : ikiBoyutlu) {
+			ikiBoyutlu2.alanHesapla();
+		}
+		
+	}
+}

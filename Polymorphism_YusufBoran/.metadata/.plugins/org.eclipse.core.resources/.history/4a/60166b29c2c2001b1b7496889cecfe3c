@@ -1,0 +1,18 @@
+package Ornek1.classes;
+
+import Ornek1.interfaces.IkiBoyutlu;
+
+public class Daire implements IkiBoyutlu {
+
+	private double yaricap;
+	
+	public Daire(double yaricap) {
+		this.yaricap = yaricap;
+	}
+
+	@Override
+	public void alanHesapla() {
+		System.err.println("Dairenin alanı: " +(double) (yaricap * yaricap * Math.PI));
+	}
+
+}

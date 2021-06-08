@@ -1,0 +1,12 @@
+package Ornek2;
+
+public class Main {
+	public static void main(String[] args) {
+
+		MusteriYonetimi musteriYonetimi = new MusteriYonetimi(new PostgresqlMusteriKayit());
+
+		Musteri musteri = new Musteri("Yusuf", "Boran");
+		
+		musteriYonetimi.kayit(musteri);
+	}
+}

@@ -1,0 +1,13 @@
+package Ornek1;
+
+import Ornek1.classes.Kup;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Kup kup = new Kup(1w);
+		kup.alanHesapla();
+		
+	}
+}

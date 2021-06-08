@@ -1,0 +1,14 @@
+package Ornek1;
+
+import Ornek1.classes.Daire;
+import Ornek1.interfaces.IkiBoyutlu;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		IkiBoyutlu ikiBoyutlu = {
+			new Daire(3)
+		};
+	}
+}

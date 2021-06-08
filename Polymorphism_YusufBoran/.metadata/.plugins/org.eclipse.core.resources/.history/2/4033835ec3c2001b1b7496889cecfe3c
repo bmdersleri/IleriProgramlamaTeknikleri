@@ -1,0 +1,18 @@
+package Ornek1;
+
+import Ornek1.classes.Daire;
+import Ornek1.classes.DikUcgen;
+import Ornek1.classes.Kare;
+import Ornek1.classes.Kup;
+import Ornek1.classes.Silindir;
+import Ornek1.interfaces.IkiBoyutlu;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Kup kup = new Kup(3);
+		kup.hacimHesapla();
+		
+	}
+}

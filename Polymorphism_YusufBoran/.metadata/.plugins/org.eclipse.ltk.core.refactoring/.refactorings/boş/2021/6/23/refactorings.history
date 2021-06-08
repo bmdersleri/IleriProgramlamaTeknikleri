@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;boş/src&apos;&#x0A;- Original project: &apos;boş&apos;&#x0A;- Destination element: &apos;boş/src&apos;&#x0A;- Original elements:&#x0A;     boş.Daire.java&#x0A;     boş.Sekil.java" description="Copy compilation units" destination="/src" element1="/src&lt;boş{Daire.java" element2="/src&lt;boş{Sekil.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1622742125603" units="2" version="1.0"/>
+</session>
