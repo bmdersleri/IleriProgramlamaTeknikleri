@@ -1,0 +1,2 @@
+C:\Users\gurkan\source\repos\State Pattern\State Pattern\obj\Debug\State Pattern.csproj.AssemblyReference.cache
+C:\Users\gurkan\source\repos\State Pattern\State Pattern\obj\Debug\State Pattern.csproj.CoreCompileInputs.cache
