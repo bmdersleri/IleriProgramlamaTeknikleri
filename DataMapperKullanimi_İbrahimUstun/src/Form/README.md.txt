@@ -1,0 +1,2 @@
+Kırmızı, yeşil ve mavi form alanlarının yapıcı argümanlarına eşlenmesi ve Color örneğin kırmızı, yeşil ve mavi form alanlarına eşlenmesi gerekir. Bunun içinde bir data mapper oluşturmak gerekir.
+Burada data mapper oluşturulur.
