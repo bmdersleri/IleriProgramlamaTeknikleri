@@ -1,0 +1,11 @@
+C:\Users\Nefa\source\repos\RepositoryPattern\RepositoryPatternWork\bin\Debug\RepositoryPatternWork.dll
+C:\Users\Nefa\source\repos\RepositoryPattern\RepositoryPatternWork\bin\Debug\RepositoryPatternWork.pdb
+C:\Users\Nefa\source\repos\RepositoryPattern\RepositoryPatternWork\bin\Debug\Dapper.dll
+C:\Users\Nefa\source\repos\RepositoryPattern\RepositoryPatternWork\bin\Debug\DapperExtensions.dll
+C:\Users\Nefa\source\repos\RepositoryPattern\RepositoryPatternWork\bin\Debug\Dapper.xml
+C:\Users\Nefa\source\repos\RepositoryPattern\RepositoryPatternWork\bin\Debug\DapperExtensions.pdb
+C:\Users\Nefa\source\repos\RepositoryPattern\RepositoryPatternWork\obj\Debug\RepositoryPatternWork.csprojAssemblyReference.cache
+C:\Users\Nefa\source\repos\RepositoryPattern\RepositoryPatternWork\obj\Debug\RepositoryPatternWork.csproj.CoreCompileInputs.cache
+C:\Users\Nefa\source\repos\RepositoryPattern\RepositoryPatternWork\obj\Debug\RepositoryPatternWork.csproj.CopyComplete
+C:\Users\Nefa\source\repos\RepositoryPattern\RepositoryPatternWork\obj\Debug\RepositoryPatternWork.dll
+C:\Users\Nefa\source\repos\RepositoryPattern\RepositoryPatternWork\obj\Debug\RepositoryPatternWork.pdb

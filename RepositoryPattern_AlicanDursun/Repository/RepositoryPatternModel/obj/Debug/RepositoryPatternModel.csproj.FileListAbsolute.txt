@@ -1,0 +1,5 @@
+C:\Users\Nefa\source\repos\RepositoryPattern\RepositoryPatternModel\bin\Debug\RepositoryPatternModel.dll
+C:\Users\Nefa\source\repos\RepositoryPattern\RepositoryPatternModel\bin\Debug\RepositoryPatternModel.pdb
+C:\Users\Nefa\source\repos\RepositoryPattern\RepositoryPatternModel\obj\Debug\RepositoryPatternModel.csproj.CoreCompileInputs.cache
+C:\Users\Nefa\source\repos\RepositoryPattern\RepositoryPatternModel\obj\Debug\RepositoryPatternModel.dll
+C:\Users\Nefa\source\repos\RepositoryPattern\RepositoryPatternModel\obj\Debug\RepositoryPatternModel.pdb

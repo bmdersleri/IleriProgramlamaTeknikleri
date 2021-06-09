@@ -1,0 +1,117 @@
+﻿@model RepositoryPatternModel.vmTablolar
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<br />
+<br />
+<br />
+<div class="col-md-12">
+    <div class="col-md-6">
+        @using (Html.BeginForm("Kullanici_Kaydet_Guncelle", "Home", FormMethod.Post))
+        {
+            @Html.HiddenFor(model => model.tblKullanicilar.Id)
+
+            <div class="form-group">
+                <label>Adı</label>
+            </div>
+            <div class="form-group">
+                @Html.EditorFor(model => model.tblKullanicilar.Adi, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+
+            <div class="form-group">
+                <label>Soyadı</label>
+            </div>
+            <div class="form-group">
+                @Html.EditorFor(model => model.tblKullanicilar.Soyadi, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+
+            <div class="form-group">
+                <label>Şifre</label>
+            </div>
+            <div class="form-group">
+                @Html.EditorFor(model => model.tblKullanicilar.Sifre, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+
+            <button type="submit" class="btn btn-primary">Kaydet</button>
+        }
+        <table class="table" id="tblKullanicilar">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Adı</th>
+                    <th>Soyadı</th>
+                    <th>Şifre</th>
+                    <th>Sil</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.glst_tblKullanicilar)
+                {
+                    <tr>
+                        <td id="id">@item.Id</td>
+                        <td id="adi">@item.Adi</td>
+                        <td id="soyadi">@item.Soyadi</td>
+                        <td id="sifre">@item.Sifre</td>
+                        <td><a href="~/Home/KullaniciSil/@item.Id" class="btn btn-warning">Sil</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+    <div class="col-md-6">
+        @using (Html.BeginForm("Ders_Kaydet_Guncelle", "Home", FormMethod.Post))
+        {
+            @Html.HiddenFor(model => model.tblDersler.Id)
+
+            <div class="form-group">
+                <label>Adı</label>
+            </div>
+            <div class="form-group">
+                @Html.EditorFor(model => model.tblDersler.DersAdi, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+
+            <button type="submit" class="btn btn-primary">Kaydet</button>
+        }
+        <table class="table" id="tblDersler">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>DersAdı</th>
+                    <th>Sil</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.glst_tblDersler)
+                {
+                    <tr>
+                        <td id="dersid">@item.Id</td>
+                        <td id="dersadi">@item.DersAdi</td>
+
+                        <td><a href="~/Home/DersSil/@item.Id" class="btn btn-warning">Sil</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section scripts{
+    <script>
+        $(document).on("dblclick", "#tblKullanicilar tr td", function () {
+            $("#tblKullanicilar_Id").val($(this).parents("tr").find("#id").text());
+            $("#tblKullanicilar_Adi").val($(this).parents("tr").find("#adi").text());
+            $("#tblKullanicilar_Soyadi").val($(this).parents("tr").find("#soyadi").text());
+            $("#tblKullanicilar_Sifre").val($(this).parents("tr").find("#sifre").text());
+        });
+
+        $(document).on("dblclick", "#tblDersler tr td", function () {
+            $("#tblDersler_Id").val($(this).parents("tr").find("#dersid").text());
+            $("#tblDersler_DersAdi").val($(this).parents("tr").find("#dersadi").text());
+
+        });
+    </script>
+
+}

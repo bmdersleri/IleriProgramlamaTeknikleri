@@ -1,0 +1,7 @@
+C:\Users\cagla\source\repos\bridge\bridge\bin\Debug\bridge.exe.config
+C:\Users\cagla\source\repos\bridge\bridge\bin\Debug\bridge.exe
+C:\Users\cagla\source\repos\bridge\bridge\bin\Debug\bridge.pdb
+C:\Users\cagla\source\repos\bridge\bridge\obj\Debug\bridge.csprojAssemblyReference.cache
+C:\Users\cagla\source\repos\bridge\bridge\obj\Debug\bridge.csproj.CoreCompileInputs.cache
+C:\Users\cagla\source\repos\bridge\bridge\obj\Debug\bridge.exe
+C:\Users\cagla\source\repos\bridge\bridge\obj\Debug\bridge.pdb
