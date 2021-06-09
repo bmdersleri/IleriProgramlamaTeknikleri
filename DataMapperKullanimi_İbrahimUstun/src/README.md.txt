@@ -1,0 +1,1 @@
+Bu uygulamada data mapper kullanımı ile ilgili örnek verilmiştir.
