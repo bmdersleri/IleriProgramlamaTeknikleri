@@ -1,0 +1,6 @@
+C:\Users\FATİH\Source\Repos\stateDesignPatternOrnegi\stateDesignPatternOrnegi\bin\Debug\stateDesignPatternOrnegi.exe.config
+C:\Users\FATİH\Source\Repos\stateDesignPatternOrnegi\stateDesignPatternOrnegi\bin\Debug\stateDesignPatternOrnegi.exe
+C:\Users\FATİH\Source\Repos\stateDesignPatternOrnegi\stateDesignPatternOrnegi\bin\Debug\stateDesignPatternOrnegi.pdb
+C:\Users\FATİH\Source\Repos\stateDesignPatternOrnegi\stateDesignPatternOrnegi\obj\Debug\stateDesignPatternOrnegi.csprojAssemblyReference.cache
+C:\Users\FATİH\Source\Repos\stateDesignPatternOrnegi\stateDesignPatternOrnegi\obj\Debug\stateDesignPatternOrnegi.exe
+C:\Users\FATİH\Source\Repos\stateDesignPatternOrnegi\stateDesignPatternOrnegi\obj\Debug\stateDesignPatternOrnegi.pdb
