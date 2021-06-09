@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\decoratortasarimdeseni\decoratortasarimdeseni\obj\Debug\decoratortasarimdeseni.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\decoratortasarimdeseni\decoratortasarimdeseni\obj\Debug\decoratortasarimdeseni.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\decoratortasarimdeseni\decoratortasarimdeseni\bin\Debug\decoratortasarimdeseni.exe.config
+C:\Users\asus\source\repos\decoratortasarimdeseni\decoratortasarimdeseni\bin\Debug\decoratortasarimdeseni.exe
+C:\Users\asus\source\repos\decoratortasarimdeseni\decoratortasarimdeseni\bin\Debug\decoratortasarimdeseni.pdb
+C:\Users\asus\source\repos\decoratortasarimdeseni\decoratortasarimdeseni\obj\Debug\decoratortasarimdeseni.exe
+C:\Users\asus\source\repos\decoratortasarimdeseni\decoratortasarimdeseni\obj\Debug\decoratortasarimdeseni.pdb

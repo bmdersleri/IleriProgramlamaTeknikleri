@@ -1,0 +1,7 @@
+D:\c# Çalışma Alanı\ileriProgramlama\ileriProgramlama\bin\Debug\ileriProgramlama.exe.config
+D:\c# Çalışma Alanı\ileriProgramlama\ileriProgramlama\bin\Debug\ileriProgramlama.exe
+D:\c# Çalışma Alanı\ileriProgramlama\ileriProgramlama\bin\Debug\ileriProgramlama.pdb
+D:\c# Çalışma Alanı\ileriProgramlama\ileriProgramlama\obj\Debug\ileriProgramlama.csprojAssemblyReference.cache
+D:\c# Çalışma Alanı\ileriProgramlama\ileriProgramlama\obj\Debug\ileriProgramlama.csproj.CoreCompileInputs.cache
+D:\c# Çalışma Alanı\ileriProgramlama\ileriProgramlama\obj\Debug\ileriProgramlama.exe
+D:\c# Çalışma Alanı\ileriProgramlama\ileriProgramlama\obj\Debug\ileriProgramlama.pdb
