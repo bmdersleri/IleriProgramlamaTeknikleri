@@ -1,0 +1,7 @@
+C:\Users\gcaml\source\repos\Isimlendirme_Hatali\Isimlendirme_Hatali\bin\Debug\Isimlendirme_Hatali.exe.config
+C:\Users\gcaml\source\repos\Isimlendirme_Hatali\Isimlendirme_Hatali\bin\Debug\Isimlendirme_Hatali.exe
+C:\Users\gcaml\source\repos\Isimlendirme_Hatali\Isimlendirme_Hatali\bin\Debug\Isimlendirme_Hatali.pdb
+C:\Users\gcaml\source\repos\Isimlendirme_Hatali\Isimlendirme_Hatali\obj\Debug\Isimlendirme_Hatali.csprojAssemblyReference.cache
+C:\Users\gcaml\source\repos\Isimlendirme_Hatali\Isimlendirme_Hatali\obj\Debug\Isimlendirme_Hatali.csproj.CoreCompileInputs.cache
+C:\Users\gcaml\source\repos\Isimlendirme_Hatali\Isimlendirme_Hatali\obj\Debug\Isimlendirme_Hatali.exe
+C:\Users\gcaml\source\repos\Isimlendirme_Hatali\Isimlendirme_Hatali\obj\Debug\Isimlendirme_Hatali.pdb
