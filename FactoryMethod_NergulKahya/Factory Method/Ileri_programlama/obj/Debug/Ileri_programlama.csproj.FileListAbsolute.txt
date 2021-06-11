@@ -1,0 +1,10 @@
+D:\visualStudioProjeleri\Ileri_programlama\Ileri_programlama\bin\Debug\Ileri_programlama.exe.config
+D:\visualStudioProjeleri\Ileri_programlama\Ileri_programlama\bin\Debug\Ileri_programlama.exe
+D:\visualStudioProjeleri\Ileri_programlama\Ileri_programlama\bin\Debug\Ileri_programlama.pdb
+D:\visualStudioProjeleri\Ileri_programlama\Ileri_programlama\obj\Debug\Ileri_programlama.csproj.AssemblyReference.cache
+D:\visualStudioProjeleri\Ileri_programlama\Ileri_programlama\obj\Debug\Ileri_programlama.Form1.resources
+D:\visualStudioProjeleri\Ileri_programlama\Ileri_programlama\obj\Debug\Ileri_programlama.Properties.Resources.resources
+D:\visualStudioProjeleri\Ileri_programlama\Ileri_programlama\obj\Debug\Ileri_programlama.csproj.GenerateResource.cache
+D:\visualStudioProjeleri\Ileri_programlama\Ileri_programlama\obj\Debug\Ileri_programlama.csproj.CoreCompileInputs.cache
+D:\visualStudioProjeleri\Ileri_programlama\Ileri_programlama\obj\Debug\Ileri_programlama.exe
+D:\visualStudioProjeleri\Ileri_programlama\Ileri_programlama\obj\Debug\Ileri_programlama.pdb

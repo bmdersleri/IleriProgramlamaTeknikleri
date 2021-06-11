@@ -1,0 +1,7 @@
+D:\visualStudioProjeleri\Ileri_programlama\IleriProgramlamaConsoleApp\bin\Debug\IleriProgramlamaConsoleApp.exe.config
+D:\visualStudioProjeleri\Ileri_programlama\IleriProgramlamaConsoleApp\bin\Debug\IleriProgramlamaConsoleApp.exe
+D:\visualStudioProjeleri\Ileri_programlama\IleriProgramlamaConsoleApp\bin\Debug\IleriProgramlamaConsoleApp.pdb
+D:\visualStudioProjeleri\Ileri_programlama\IleriProgramlamaConsoleApp\obj\Debug\IleriProgramlamaConsoleApp.csproj.AssemblyReference.cache
+D:\visualStudioProjeleri\Ileri_programlama\IleriProgramlamaConsoleApp\obj\Debug\IleriProgramlamaConsoleApp.csproj.CoreCompileInputs.cache
+D:\visualStudioProjeleri\Ileri_programlama\IleriProgramlamaConsoleApp\obj\Debug\IleriProgramlamaConsoleApp.exe
+D:\visualStudioProjeleri\Ileri_programlama\IleriProgramlamaConsoleApp\obj\Debug\IleriProgramlamaConsoleApp.pdb
