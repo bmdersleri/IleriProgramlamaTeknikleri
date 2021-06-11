@@ -1,0 +1,13 @@
+C:\Users\msı\source\repos\Proxy-Örnek-1\Proxy-Örnek-1\obj\Debug\netcoreapp3.1\Proxy-Örnek-1.csprojAssemblyReference.cache
+C:\Users\msı\source\repos\Proxy-Örnek-1\Proxy-Örnek-1\obj\Debug\netcoreapp3.1\Proxy-Örnek-1.AssemblyInfoInputs.cache
+C:\Users\msı\source\repos\Proxy-Örnek-1\Proxy-Örnek-1\obj\Debug\netcoreapp3.1\Proxy-Örnek-1.AssemblyInfo.cs
+C:\Users\msı\source\repos\Proxy-Örnek-1\Proxy-Örnek-1\obj\Debug\netcoreapp3.1\Proxy-Örnek-1.csproj.CoreCompileInputs.cache
+C:\Users\msı\source\repos\Proxy-Örnek-1\Proxy-Örnek-1\bin\Debug\netcoreapp3.1\Proxy-Örnek-1.exe
+C:\Users\msı\source\repos\Proxy-Örnek-1\Proxy-Örnek-1\bin\Debug\netcoreapp3.1\Proxy-Örnek-1.deps.json
+C:\Users\msı\source\repos\Proxy-Örnek-1\Proxy-Örnek-1\bin\Debug\netcoreapp3.1\Proxy-Örnek-1.runtimeconfig.json
+C:\Users\msı\source\repos\Proxy-Örnek-1\Proxy-Örnek-1\bin\Debug\netcoreapp3.1\Proxy-Örnek-1.runtimeconfig.dev.json
+C:\Users\msı\source\repos\Proxy-Örnek-1\Proxy-Örnek-1\bin\Debug\netcoreapp3.1\Proxy-Örnek-1.dll
+C:\Users\msı\source\repos\Proxy-Örnek-1\Proxy-Örnek-1\bin\Debug\netcoreapp3.1\Proxy-Örnek-1.pdb
+C:\Users\msı\source\repos\Proxy-Örnek-1\Proxy-Örnek-1\obj\Debug\netcoreapp3.1\Proxy-Örnek-1.dll
+C:\Users\msı\source\repos\Proxy-Örnek-1\Proxy-Örnek-1\obj\Debug\netcoreapp3.1\Proxy-Örnek-1.pdb
+C:\Users\msı\source\repos\Proxy-Örnek-1\Proxy-Örnek-1\obj\Debug\netcoreapp3.1\Proxy-Örnek-1.genruntimeconfig.cache
