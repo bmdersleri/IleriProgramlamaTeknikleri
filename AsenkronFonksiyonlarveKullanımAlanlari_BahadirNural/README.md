@@ -6,6 +6,14 @@ Bu kodlar senkron programlama ve  <strong> asenkron programla</strong> arasında
  dilinde completable future  sınıfını açıklamak için yazılmıştır.
 
   
+Youtube Kanalımız: BMDersleri
+
+Bağlantı: https://www.youtube.com/channel/UCIdYgV-XFjv9q0IHtzUTtQw
+
+Kısa Bağlantı: https://bit.ly/32k9MnJ
+
+Github Adresimiz: https://github.com/bmdersleri
+
 
 ## Sunum Videosu
 
