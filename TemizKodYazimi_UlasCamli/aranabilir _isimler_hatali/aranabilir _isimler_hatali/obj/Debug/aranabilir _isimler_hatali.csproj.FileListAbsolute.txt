@@ -1,0 +1,7 @@
+C:\Users\gcaml\source\repos\aranabilir _isimler_hatali\aranabilir _isimler_hatali\bin\Debug\aranabilir _isimler_hatali.exe.config
+C:\Users\gcaml\source\repos\aranabilir _isimler_hatali\aranabilir _isimler_hatali\bin\Debug\aranabilir _isimler_hatali.exe
+C:\Users\gcaml\source\repos\aranabilir _isimler_hatali\aranabilir _isimler_hatali\bin\Debug\aranabilir _isimler_hatali.pdb
+C:\Users\gcaml\source\repos\aranabilir _isimler_hatali\aranabilir _isimler_hatali\obj\Debug\aranabilir _isimler_hatali.csproj.CoreCompileInputs.cache
+C:\Users\gcaml\source\repos\aranabilir _isimler_hatali\aranabilir _isimler_hatali\obj\Debug\aranabilir _isimler_hatali.exe
+C:\Users\gcaml\source\repos\aranabilir _isimler_hatali\aranabilir _isimler_hatali\obj\Debug\aranabilir _isimler_hatali.pdb
+C:\Users\gcaml\source\repos\aranabilir _isimler_hatali\aranabilir _isimler_hatali\obj\Debug\aranabilir _isimler_hatali.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\gcaml\source\repos\buyuk_fonksiyonlar_yanlis\buyuk_fonksiyonlar_yanlis\bin\Debug\buyuk_fonksiyonlar_yanlis.exe.config
+C:\Users\gcaml\source\repos\buyuk_fonksiyonlar_yanlis\buyuk_fonksiyonlar_yanlis\bin\Debug\buyuk_fonksiyonlar_yanlis.exe
+C:\Users\gcaml\source\repos\buyuk_fonksiyonlar_yanlis\buyuk_fonksiyonlar_yanlis\bin\Debug\buyuk_fonksiyonlar_yanlis.pdb
+C:\Users\gcaml\source\repos\buyuk_fonksiyonlar_yanlis\buyuk_fonksiyonlar_yanlis\obj\Debug\buyuk_fonksiyonlar_yanlis.csproj.CoreCompileInputs.cache
+C:\Users\gcaml\source\repos\buyuk_fonksiyonlar_yanlis\buyuk_fonksiyonlar_yanlis\obj\Debug\buyuk_fonksiyonlar_yanlis.exe
+C:\Users\gcaml\source\repos\buyuk_fonksiyonlar_yanlis\buyuk_fonksiyonlar_yanlis\obj\Debug\buyuk_fonksiyonlar_yanlis.pdb

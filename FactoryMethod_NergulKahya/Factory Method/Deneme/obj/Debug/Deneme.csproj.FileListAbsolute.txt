@@ -1,0 +1,10 @@
+D:\visualStudioProjeleri\Ileri_programlama\Deneme\bin\Debug\Deneme.exe.config
+D:\visualStudioProjeleri\Ileri_programlama\Deneme\bin\Debug\Deneme.exe
+D:\visualStudioProjeleri\Ileri_programlama\Deneme\bin\Debug\Deneme.pdb
+D:\visualStudioProjeleri\Ileri_programlama\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+D:\visualStudioProjeleri\Ileri_programlama\Deneme\obj\Debug\Deneme.Form1.resources
+D:\visualStudioProjeleri\Ileri_programlama\Deneme\obj\Debug\Deneme.Properties.Resources.resources
+D:\visualStudioProjeleri\Ileri_programlama\Deneme\obj\Debug\Deneme.csproj.GenerateResource.cache
+D:\visualStudioProjeleri\Ileri_programlama\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+D:\visualStudioProjeleri\Ileri_programlama\Deneme\obj\Debug\Deneme.exe
+D:\visualStudioProjeleri\Ileri_programlama\Deneme\obj\Debug\Deneme.pdb

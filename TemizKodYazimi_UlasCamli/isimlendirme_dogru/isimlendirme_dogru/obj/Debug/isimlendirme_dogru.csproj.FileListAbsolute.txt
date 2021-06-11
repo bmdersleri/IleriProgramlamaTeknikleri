@@ -1,0 +1,6 @@
+C:\Users\gcaml\source\repos\isimlendirme_dogru\isimlendirme_dogru\bin\Debug\isimlendirme_dogru.exe.config
+C:\Users\gcaml\source\repos\isimlendirme_dogru\isimlendirme_dogru\bin\Debug\isimlendirme_dogru.exe
+C:\Users\gcaml\source\repos\isimlendirme_dogru\isimlendirme_dogru\bin\Debug\isimlendirme_dogru.pdb
+C:\Users\gcaml\source\repos\isimlendirme_dogru\isimlendirme_dogru\obj\Debug\isimlendirme_dogru.csproj.CoreCompileInputs.cache
+C:\Users\gcaml\source\repos\isimlendirme_dogru\isimlendirme_dogru\obj\Debug\isimlendirme_dogru.exe
+C:\Users\gcaml\source\repos\isimlendirme_dogru\isimlendirme_dogru\obj\Debug\isimlendirme_dogru.pdb

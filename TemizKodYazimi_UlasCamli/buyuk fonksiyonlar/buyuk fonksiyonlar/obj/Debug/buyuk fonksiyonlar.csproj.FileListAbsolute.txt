@@ -1,0 +1,7 @@
+C:\Users\gcaml\source\repos\buyuk fonksiyonlar\buyuk fonksiyonlar\obj\Debug\buyuk fonksiyonlar.csprojAssemblyReference.cache
+C:\Users\gcaml\source\repos\buyuk fonksiyonlar\buyuk fonksiyonlar\obj\Debug\buyuk fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\gcaml\source\repos\buyuk fonksiyonlar\buyuk fonksiyonlar\bin\Debug\buyuk fonksiyonlar.exe.config
+C:\Users\gcaml\source\repos\buyuk fonksiyonlar\buyuk fonksiyonlar\bin\Debug\buyuk fonksiyonlar.exe
+C:\Users\gcaml\source\repos\buyuk fonksiyonlar\buyuk fonksiyonlar\bin\Debug\buyuk fonksiyonlar.pdb
+C:\Users\gcaml\source\repos\buyuk fonksiyonlar\buyuk fonksiyonlar\obj\Debug\buyuk fonksiyonlar.exe
+C:\Users\gcaml\source\repos\buyuk fonksiyonlar\buyuk fonksiyonlar\obj\Debug\buyuk fonksiyonlar.pdb

@@ -1,0 +1,6 @@
+C:\Users\gcaml\source\repos\aranabilir_isimler_dogru\aranabilir_isimler_dogru\bin\Debug\aranabilir_isimler_dogru.exe.config
+C:\Users\gcaml\source\repos\aranabilir_isimler_dogru\aranabilir_isimler_dogru\bin\Debug\aranabilir_isimler_dogru.exe
+C:\Users\gcaml\source\repos\aranabilir_isimler_dogru\aranabilir_isimler_dogru\bin\Debug\aranabilir_isimler_dogru.pdb
+C:\Users\gcaml\source\repos\aranabilir_isimler_dogru\aranabilir_isimler_dogru\obj\Debug\aranabilir_isimler_dogru.csproj.CoreCompileInputs.cache
+C:\Users\gcaml\source\repos\aranabilir_isimler_dogru\aranabilir_isimler_dogru\obj\Debug\aranabilir_isimler_dogru.exe
+C:\Users\gcaml\source\repos\aranabilir_isimler_dogru\aranabilir_isimler_dogru\obj\Debug\aranabilir_isimler_dogru.pdb
