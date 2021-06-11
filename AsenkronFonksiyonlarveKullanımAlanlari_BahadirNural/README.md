@@ -1,4 +1,4 @@
-# Asenkron FOnksiyonlar Ve Kullanım Alanları
+# Asenkron Fonksiyonlar Ve Kullanım Alanları
 
   
 
