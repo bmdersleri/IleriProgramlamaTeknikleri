@@ -2,7 +2,7 @@ Composite Design Pattern
 
 Youtube Kanalımız: BMDersleri
 
- Konu Anlatım Videosu : 
+ Konu Anlatım Videosu : https://youtu.be/Z8jTy4ktP2E
  
  BMDersleri  : https://www.youtube.com/bmdersleri 
  
