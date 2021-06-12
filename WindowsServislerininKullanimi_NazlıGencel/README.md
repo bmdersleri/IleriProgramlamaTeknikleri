@@ -3,6 +3,8 @@ Windows Servis OLuşturma Örnek Kodları
 
 Youtube Kanalımız: BMDersleri
 
+Kodların Video Linki : https://youtu.be/roq4-DR0xSY
+
 Bağlantı: https://www.youtube.com/channel/UCIdYgV-XFjv9q0IHtzUTtQw
 
 Kısa Bağlantı: https://bit.ly/32k9MnJ
