@@ -8,4 +8,4 @@
 | Kısa Bağlantı:| https://bit.ly/32k9MnJ |
 | Github Adresimiz :  | https://github.com/bmdersleri | 
 | Hazırlayan :  | Mehmet KÖK | 
-| Kodların Uygulandığı Video: https://www.youtube.com/watch?v=pYFVYte52EU |
+| Kodların Uygulandığı Video:| https://www.youtube.com/watch?v=pYFVYte52EU |
