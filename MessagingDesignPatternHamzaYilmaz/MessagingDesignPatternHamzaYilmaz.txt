@@ -1,0 +1,34 @@
+  
+
+class Bilgisayar
+{
+  
+   public function verElektrik205w()
+   {
+      echo "Güç geldi!";
+   }
+   public function cikarSes()
+   }
+      echo "Dıt Dıt VUUUUFFF";
+   
+   public function gosterBilgisayarEkrani()    
+   {
+      echo "Ekran Yükleniyor.. Lütfen 3sn bekleyiniz...";
+   }
+   public function bekle ()
+   {
+      echo "Kullanıcı Bekleniyor!";
+   }
+   public function islemYap()
+   {
+      echo "İşlemler Tamamlanıyor...";
+   }
+   public function uykuModu
+   {
+      echo "Horr Horrrr!;
+   }
+   public function kesElektirik()
+   {
+      echo "Görüşmek Üzereee :)";
+   }
+}
