@@ -1,20 +1,35 @@
-İçerik: Chain Of Responsibility örneği.
-Youtube Kanalımız: BMDersleri
-Bağlantı: https://www.youtube.com/channel/UCIdYgV-XFjv9q0IHtzUTtQw
-Kısa Bağlantı: https://bit.ly/32k9MnJ
-Github Adresimiz: https://github.com/bmdersleri
-Sorumluluk zinciri, istekleri bir işleyici zinciri boyunca iletmenizi sağlayan davranışsal bir tasarım modelidir. Bir istek aldıktan sonra, her işleyici, isteği işlemeye veya zincirdeki bir sonraki işleyiciye iletmeye karar verir.
-İşleyici arabirimi bildirilir ve istekleri işlemek için bir yöntemin imzasını açıklanır.
-İstemcinin istek verilerini yönteme nasıl aktaracağına karar verilir. En esnek yol, isteği bir nesneye dönüştürmek ve onu argüman olarak işleme yöntemine iletmektir.
-Somut işleyicilerde yinelenen ortak metin kodunu ortadan kaldırmak için, işleyici arabiriminden türetilen soyut bir temel işleyici sınıfı oluşturmaya değer olabilir. Bu sınıf, zincirdeki sonraki işleyiciye bir başvuru depolamak için bir alana sahip olmalıdır. Sınıfı değişmez kılmayı düşünün. Bununla birlikte, zincirleri çalışma zamanında değiştirmeyi planlıyorsanız, referans alanının değerini değiştirmek için bir ayarlayıcı tanımlamanız gerekir.
-Ayrıca, işleme yöntemi için uygun varsayılan davranışı da uygulayabilirsiniz; bu, istek kalmadıkça sonraki nesneye iletilir. Somut işleyiciler, üst yöntemi çağırarak bu davranışı kullanabilecektir.
-Tek tek somut işleyici alt sınıfları oluşturulur ve işleme yöntemlerini uygulanır. 
-Proje için:
-İlk olarak projede arama kriterlerini giriyoruz. Arama kriterleri nesne olmalıdır. İstemcinin erişeceği ilk nesne zincirin ilk halkası. Bu nesnenin Ara metodu da bizden AramaKriteri nesnesini alacak ve sorumlu nesneye (zincirin sonraki halkasına) doğru aktaracak.
-Bu durumda, zincirin tüm halkaları bir üst sınıftan türemelidir. Hatta her nesne uygun salon arama işini ayrı bir sunucu ile çalışacağına göre bu üst sınıf ve ara metodu abstract olmalıdır. Bu sınıfa, ToplantiSalonRezervasyon adını veriyoruz. Zincirin her halkası, bir sonraki halkaya erişebileceğine göre, kendi tipinde bir özellik taşıması gerekiyor. 
-Bu özelliğe de BirSonrakiSorumlu adını verdik. Nesnenin kendisinden bir sonraki nesneye veriyi aktarmasının en kolay yolu delege kullanmaktır.Çünkü, veri aktarılır aktarılmaz, söz konusu metodun anında tetiklenmesini istiyoruz.
-Bu amaçla EventHandler generic delegesinden faydalanılır. Delegenin fırlatacağı metodu da oluşturmamız gerekir. Son olarak, delege ve metodu, ToplantiSalonRezervasyon sınıfının contstuctor’unda eşleştiririz.Bu yapıya göre eklediğimiz method delege çağırmaktadır.  Altındaki metodu da ToplantiSalonRezervasyon sınıfına ekleriz. Artık zincirimizin tüm halkalarını oluşturabiliriz. Burada önemli olan, her halkanın kendi sorumluluğunu bilmesidir. Eğer işlemi yapmaktan sorumlu değilse, ilgili veriyi bir sonraki halkaya fırlatması. Aslında bu halkaların arasında bir hiyerarşi de oluşturuluyor.
- Private static void main ile de sırayla üç halka nesnesi oluşturup, belirlenen sıraya göre birleştirilir. Program çalıştırıldığında zincirin halkasına talepte bulunulur ve çıktı gelir.
+Ä°Ã§erik: Chain Of Responsibility Ã–rneÄŸi
 
-Hazırlayan: Cansu Karakuş
+Youtube KanalÄ±mÄ±z: BMDersleri
 
+BaÄŸlantÄ±: https://www.youtube.com/channel/UCIdYgV-XFjv9q0IHtzUTtQw
+
+KÄ±sa BaÄŸlantÄ±: https://bit.ly/32k9MnJ
+
+KodlarÄ±n UygulandÄ±ÄŸÄ± Video: https://www.youtube.com/watch?v=GcjQpuJ-N2w
+
+Github Adresimiz: https://github.com/bmdersleri
+
+Sorumluluk zinciri, istekleri bir iÅŸleyici zinciri boyunca iletmenizi saÄŸlayan davranÄ±ÅŸsal bir tasarÄ±m modelidir. 
+Bir istek aldÄ±ktan sonra, her iÅŸleyici, isteÄŸi iÅŸlemeye veya zincirdeki bir sonraki iÅŸleyiciye iletmeye karar verir.
+Ä°ÅŸleyici arabirimi bildirilir ve istekleri iÅŸlemek iÃ§in bir yÃ¶ntemin imzasÄ±nÄ± aÃ§Ä±klanÄ±r.
+Ä°stemcinin istek verilerini yÃ¶nteme nasÄ±l aktaracaÄŸÄ±na karar verilir. 
+En esnek yol, isteÄŸi bir nesneye dÃ¶nÃ¼ÅŸtÃ¼rmek ve onu argÃ¼man olarak iÅŸleme yÃ¶ntemine iletmektir.
+Somut iÅŸleyicilerde yinelenen ortak metin kodunu ortadan kaldÄ±rmak iÃ§in, iÅŸleyici arabiriminden tÃ¼retilen 
+soyut bir temel iÅŸleyici sÄ±nÄ±fÄ± oluÅŸturmaya deÄŸer olabilir. Bu sÄ±nÄ±f, zincirdeki sonraki iÅŸleyiciye bir baÅŸvuru depolamak iÃ§in bir alana sahip olmalÄ±dÄ±r. SÄ±nÄ±fÄ± deÄŸiÅŸmez kÄ±lmayÄ± dÃ¼ÅŸÃ¼nÃ¼n. Bununla birlikte, zincirleri Ã§alÄ±ÅŸma zamanÄ±nda deÄŸiÅŸtirmeyi planlÄ±yorsanÄ±z, referans alanÄ±nÄ±n deÄŸerini deÄŸiÅŸtirmek iÃ§in bir ayarlayÄ±cÄ± tanÄ±mlamanÄ±z gerekir.
+AyrÄ±ca, iÅŸleme yÃ¶ntemi iÃ§in uygun varsayÄ±lan davranÄ±ÅŸÄ± da uygulayabilirsiniz; bu, istek kalmadÄ±kÃ§a sonraki nesneye iletilir. Somut iÅŸleyiciler, Ã¼st yÃ¶ntemi Ã§aÄŸÄ±rarak bu davranÄ±ÅŸÄ± kullanabilecektir.
+Tek tek somut iÅŸleyici alt sÄ±nÄ±flarÄ± oluÅŸturulur ve iÅŸleme yÃ¶ntemlerini uygulanÄ±r. 
+
+Proje iÃ§in:
+Ä°lk olarak projede arama kriterlerini giriyoruz. Arama kriterleri nesne olmalÄ±dÄ±r. 
+Ä°stemcinin eriÅŸeceÄŸi ilk nesne zincirin ilk halkasÄ±.
+ Bu nesnenin Ara metodu da bizden AramaKriteri nesnesini alacak ve sorumlu nesneye (zincirin sonraki halkasÄ±na) doÄŸru aktaracak.
+Bu durumda, zincirin tÃ¼m halkalarÄ± bir Ã¼st sÄ±nÄ±ftan tÃ¼remelidir. 
+Hatta her nesne uygun salon arama iÅŸini ayrÄ± bir sunucu ile Ã§alÄ±ÅŸacaÄŸÄ±na gÃ¶re bu Ã¼st sÄ±nÄ±f ve ara metodu abstract olmalÄ±dÄ±r.
+Bu sÄ±nÄ±fa, ToplantiSalonRezervasyon adÄ±nÄ± veriyoruz.
+ Zincirin her halkasÄ±, bir sonraki halkaya eriÅŸebileceÄŸine gÃ¶re, kendi tipinde bir Ã¶zellik taÅŸÄ±masÄ± gerekiyor. 
+Bu Ã¶zelliÄŸe de BirSonrakiSorumlu adÄ±nÄ± verdik. Nesnenin kendisinden bir sonraki nesneye veriyi aktarmasÄ±nÄ±n en kolay yolu delege kullanmaktÄ±r.Ã‡Ã¼nkÃ¼, veri aktarÄ±lÄ±r aktarÄ±lmaz, sÃ¶z konusu metodun anÄ±nda tetiklenmesini istiyoruz.
+Bu amaÃ§la EventHandler generic delegesinden faydalanÄ±lÄ±r. Delegenin fÄ±rlatacaÄŸÄ± metodu da oluÅŸturmamÄ±z gerekir. Son olarak, delege ve metodu, ToplantiSalonRezervasyon sÄ±nÄ±fÄ±nÄ±n contstuctorâ€™unda eÅŸleÅŸtiririz.Bu yapÄ±ya gÃ¶re eklediÄŸimiz method delege Ã§aÄŸÄ±rmaktadÄ±r.  AltÄ±ndaki metodu da ToplantiSalonRezervasyon sÄ±nÄ±fÄ±na ekleriz. ArtÄ±k zincirimizin tÃ¼m halkalarÄ±nÄ± oluÅŸturabiliriz. Burada Ã¶nemli olan, her halkanÄ±n kendi sorumluluÄŸunu bilmesidir. EÄŸer iÅŸlemi yapmaktan sorumlu deÄŸilse, ilgili veriyi bir sonraki halkaya fÄ±rlatmasÄ±. AslÄ±nda bu halkalarÄ±n arasÄ±nda bir hiyerarÅŸi de oluÅŸturuluyor.
+ Private static void main ile de sÄ±rayla Ã¼Ã§ halka nesnesi oluÅŸturup, belirlenen sÄ±raya gÃ¶re birleÅŸtirilir. Program Ã§alÄ±ÅŸtÄ±rÄ±ldÄ±ÄŸÄ±nda zincirin halkasÄ±na talepte bulunulur ve Ã§Ä±ktÄ± gelir.
+
+HazÄ±rlayan: Cansu KarakuÅŸ
