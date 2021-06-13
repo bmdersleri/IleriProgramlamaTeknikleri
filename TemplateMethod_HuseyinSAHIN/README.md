@@ -1,9 +1,6 @@
 Template Metot Örnek Kodları
 
-Template Metot nedir? 
-Template metot kullanmasak projemiz nasıl olurdu?
-Template metot kullanmanın ve kullanmamanın farkları nelerdir?
-Template metot Örnek Kodlama nasıl olmalıdır?
+Template metot, örnek kodlanmanın nasıl olabileciği şeklinde açıklayıcı kodlar bulunmaktadır.
 
 Youtube Kanalımız: BMDersleri
 
