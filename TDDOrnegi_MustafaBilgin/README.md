@@ -1,8 +1,7 @@
-Test Driven Development
-
-------------------------------------------------------------------------------
-
+# Test Driven Development
 Test Driven Development Nedir?
+
+Konu Anlatım Videosu: https://www.youtube.com/watch?v=HjKGcuPleZE
 
 Youtube Kanalımız: BMDersleri
 
@@ -14,7 +13,7 @@ Github Adresimiz: https://github.com/bmdersleri
 
 Hazırlayan: Mustafa BİLGİN
 
-Konular:
+Ders İçeriği:
 
 01: Giriş
 02: Legacy Code Nedir?
