@@ -5,7 +5,7 @@ Bağlantı: https://www.youtube.com/channel/UCIdYgV-XFjv9q0IHtzUTtQw
 Kısa Bağlantı: https://bit.ly/32k9MnJ
 Github Adresimiz: https://github.com/bmdersleri
 
-Konu ile ilgili Youtube Video Linki: https://www.youtube.com/watch?v=6p9Gbuv8T5U
+Konu ile ilgili Youtube Video Linki: https://www.youtube.com/watch?v=wn224vjYuTk
 
 Hazırlayan: Erkut Bulut
 
