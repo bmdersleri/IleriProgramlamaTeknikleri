@@ -1,14 +1,12 @@
-#Object Pool (Nesne havuzu) Deseni
+# Object Pool (Nesne havuzu) Deseni
+Object Pool Örnek Kodları
+| | |
+|-----|-----|
+| Konu Anlatım Videosu | https://youtu.be/ul6WaGugA1s |
+| BMDersleri   | https://www.youtube.com/bmdersleri |
+| Github Adresimiz   | https://github.com/bmdersleri | 
+| Hazırlayan   | Volkan KORKMAZ | 
 
-Youtube Kanalımız: BMDersleri
-
-Kısa Bağlantı: https://bit.ly/32k9MnJ
-
-Github Adresimiz: https://github.com/bmdersleri
-
-Youtube Sunum Linki: https://youtu.be/ul6WaGugA1s
-
-Hazırlayan: Volkan KORKMAZ
 
 Object Pool Tasarım Deseni,tekrarlı kullanılan nesnelerin üretim ve imha süreçlerinde meydana gelen maliyetlerin minimize edilmesi için üretilen nesnenin bir kaynakta/alanda/havuzda tutulması üzerine geliştirilmiş bir tasarım desenidir.
 
