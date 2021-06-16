@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Örnek2/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.ObjectPool": "5.0.7"
+        },
+        "runtime": {
+          "Örnek2.dll": {}
+        }
+      },
+      "Microsoft.Extensions.ObjectPool/5.0.7": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.ObjectPool.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.721.26309"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Örnek2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.ObjectPool/5.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-37wuOCmLiKR/DpJE14bEj4X2JZHnwySgYO8M24rPvF/dgwdEO1CFbbyTWi9A0n5KnQFN/srODpraK9/g5x8hng==",
+      "path": "microsoft.extensions.objectpool/5.0.7",
+      "hashPath": "microsoft.extensions.objectpool.5.0.7.nupkg.sha512"
+    }
+  }
+}

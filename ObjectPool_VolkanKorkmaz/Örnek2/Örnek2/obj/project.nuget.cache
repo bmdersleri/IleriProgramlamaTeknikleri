@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "crLSu56emrN8NG14cWQWEeevaWnV9Xfnh9bjRyRKmbo/pPou/HmbgFWukz8y8PhYZE5PSVMo2KyHbw3v7UVsFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Okeanos\\source\\repos\\Örnek2\\Örnek2\\Örnek2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Okeanos\\.nuget\\packages\\microsoft.extensions.objectpool\\5.0.7\\microsoft.extensions.objectpool.5.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
