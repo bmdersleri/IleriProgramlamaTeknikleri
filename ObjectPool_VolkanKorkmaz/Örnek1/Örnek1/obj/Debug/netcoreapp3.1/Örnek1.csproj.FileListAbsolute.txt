@@ -1,0 +1,13 @@
+C:\Users\Okeanos\source\repos\Örnek1\Örnek1\bin\Debug\netcoreapp3.1\Örnek1.exe
+C:\Users\Okeanos\source\repos\Örnek1\Örnek1\bin\Debug\netcoreapp3.1\Örnek1.deps.json
+C:\Users\Okeanos\source\repos\Örnek1\Örnek1\bin\Debug\netcoreapp3.1\Örnek1.runtimeconfig.json
+C:\Users\Okeanos\source\repos\Örnek1\Örnek1\bin\Debug\netcoreapp3.1\Örnek1.runtimeconfig.dev.json
+C:\Users\Okeanos\source\repos\Örnek1\Örnek1\bin\Debug\netcoreapp3.1\Örnek1.dll
+C:\Users\Okeanos\source\repos\Örnek1\Örnek1\bin\Debug\netcoreapp3.1\Örnek1.pdb
+C:\Users\Okeanos\source\repos\Örnek1\Örnek1\obj\Debug\netcoreapp3.1\Örnek1.csproj.AssemblyReference.cache
+C:\Users\Okeanos\source\repos\Örnek1\Örnek1\obj\Debug\netcoreapp3.1\Örnek1.AssemblyInfoInputs.cache
+C:\Users\Okeanos\source\repos\Örnek1\Örnek1\obj\Debug\netcoreapp3.1\Örnek1.AssemblyInfo.cs
+C:\Users\Okeanos\source\repos\Örnek1\Örnek1\obj\Debug\netcoreapp3.1\Örnek1.csproj.CoreCompileInputs.cache
+C:\Users\Okeanos\source\repos\Örnek1\Örnek1\obj\Debug\netcoreapp3.1\Örnek1.dll
+C:\Users\Okeanos\source\repos\Örnek1\Örnek1\obj\Debug\netcoreapp3.1\Örnek1.pdb
+C:\Users\Okeanos\source\repos\Örnek1\Örnek1\obj\Debug\netcoreapp3.1\Örnek1.genruntimeconfig.cache

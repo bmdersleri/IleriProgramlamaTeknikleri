@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Okeanos\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Okeanos\\.nuget\\packages"
+    ]
+  }
+}

@@ -4,7 +4,7 @@ Memento Tasarım Deseni konu anlatım videosu:
 
 Hazırlayan: Dilara Aydın
 
-İlgili Video linki : 
+İlgili Video linki : https://youtu.be/pza8bqOHGuw
 
 BMDersleri Youtube kanalımız:https://www.youtube.com/bmdersleri
 

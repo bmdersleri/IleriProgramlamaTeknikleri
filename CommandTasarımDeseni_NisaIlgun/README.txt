@@ -9,6 +9,8 @@ Kısa Bağlantı: https://bit.ly/32k9MnJ
 
 Github Adresimiz: https://github.com/bmdersleri
 
+Konu ile ilgili Youtube Video Linki : https://www.youtube.com/watch?v=0dQ3o5zQhU4&t=1s
+
 Hazırlayan: M.Nisa İLGÜN
 Dersler:
 
